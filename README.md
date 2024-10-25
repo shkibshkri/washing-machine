@@ -16,3 +16,7 @@ In this project, outputs are represented by LEDs, and inputs by buttons configur
 - GPIO 25 (Discharge Pump): Drains water after washing is complete
 - GPIO 19 (Lower Level Sensor): Detects if the drum is empty
 - GPIO 26 (Warning LED): Blinks to indicate the washing cycle is complete
+
+### Breadboard Setup
+
+![Breadboard Setup](./Breadboard_Setup.jpg)
