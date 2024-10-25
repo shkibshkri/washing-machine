@@ -76,7 +76,7 @@ void loop() {
 				digitalWrite(motorLeft, LOW);
 			}
 
-			//discharging the water till the cap is empty
+			//discharging the water till the drum is empty
 			while(lowerLevelState == HIGH)
 			{
 				digitalWrite(disChargePump, HIGH);
