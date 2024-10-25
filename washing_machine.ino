@@ -1,4 +1,4 @@
-//Simple smart washing machine
+//Simple Smart Washing Machine
 
 
 //define pins
